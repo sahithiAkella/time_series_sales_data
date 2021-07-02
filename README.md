@@ -1,12 +1,12 @@
 # time_series_sales_data
 
-Problem Description
+Problem Description: 
 You are presented with a dataset `train_data.csv` that contains the daily sales for
 more than 1000 stores of a chain. In addition, we provide the dataset `store.csv` that
 contains details for each store.
 Task : Build a model that predicts the daily sales for the test data set
 
-Data details
+Data details:
 Below we give you a brief description of the attributes of the CSV files:
 train.csv and test.csv
 • Id - an Id that represents a (Store, Date) duple within the test set
